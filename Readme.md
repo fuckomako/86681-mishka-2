@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Дмитрий Мальнев](https://up.htmlacademy.ru/adaptive/9/user/86681).
-* Наставник: `Неизвестно`.
+* Наставник: `Кексобот`.
 
 ---
 
