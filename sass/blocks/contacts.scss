@@ -165,9 +165,7 @@
     min-height: 455px;
     width: 100%;
     margin-bottom: 37px;
-
     text-align: center;
-
     background: $gray;
 
     img {
@@ -190,7 +188,6 @@
     padding-right: 59px;
 
     @include respond-to("medium") {
-      /*width: 230px;*/
       padding-left: 43px;
       padding-right: 43px;
     }
